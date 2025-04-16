@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 474 474">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #266cf0;
+      }
+
+      .cls-3 {
+        opacity: .1;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="474" height="474"/>
+    </clipPath>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g id="_그룹_68281" data-name="그룹_68281" class="cls-3">
+        <g class="cls-4">
+          <g id="_그룹_68279" data-name="그룹_68279">
+            <path id="_패스_98297" data-name="패스_98297" class="cls-2" d="M237,0C106.1,0,0,106.1,0,237s106.1,237,237,237,237-106.1,237-237S367.9,0,237,0M237,341c-57.5,0-104-46.6-104-104,0-57.5,46.6-104,104-104,57.5,0,104,46.6,104,104h0c0,57.5-46.6,104-104,104h0"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
